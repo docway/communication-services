@@ -14,7 +14,7 @@
     },
     "packageUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/docway/communication-services/releases/download/poc/group-calling.zip"
+      "defaultValue": "https://github.com/docway/communication-services/releases/download/latest/group-calling.zip"
     }
   },
   "variables": {
