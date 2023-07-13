@@ -1,5 +1,5 @@
 {
-  "name": "communication-services-web-calling-hero",
+  "name": "communication-services",
   "version": "1.0.0",
   "description": "--- page_type: sample languages: - javascript - nodejs - products: - azure - azure-communication-services ---",
   "scripts": {
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azure-Samples/communication-services-web-calling-hero.git"
+    "url": "git+https://github.com/docway/communication-services-web-calling-hero.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Azure-Samples/communication-services-web-calling-hero/issues"
+    "url": "https://github.com/docway/communication-services-web-calling-hero/issues"
   },
-  "homepage": "https://github.com/Azure-Samples/communication-services-web-calling-hero#readme"
+  "homepage": "https://github.com/docway/communication-services-web-calling-hero#readme"
 }
